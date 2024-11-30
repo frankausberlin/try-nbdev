@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "try-nbdev"
+  site-url: "https://frankausberlin.github.io/try-nbdev"
+  description: "from tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/frankausberlin/try-nbdev"
